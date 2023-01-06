@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-<<<<<<< HEAD
+
 ## Description
 
 
@@ -26,7 +26,7 @@ Open Web page and navigate to the projcects section by scrolling, or by clicking
 
 <a href="https://fitzfinoo.github.io/Bootstrap-Portfolio/"> Live Link </a>
 
-<a href="hhttps://github.com/Fitzfinoo/Bootstrap-Portfolio/settings/pages"> Respo Link </a>
+<a href="https://github.com/Fitzfinoo/Bootstrap-Portfolio/settings/pages"> Respo Link </a>
 
 ## Credits
 
