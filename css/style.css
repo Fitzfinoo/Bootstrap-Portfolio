@@ -10,23 +10,28 @@
 }
 
 .jumbotron {
-  height: calc(50vh - 25px);
   background-image: url(../images/02.1-hero-bg.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: black;
+}
+.container-grid{
+  display: grid;
+  height: calc(50vh - 25px);
+  color: rgb(153, 26, 26);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.jumbotron p {
+.profilepic{
+  border-radius: 100%;
+  padding-top: 0%;
+5
+.container-grid p {
   font-style: italic;
   font-size: 24px;
-
+  align-items: flex-end;
 }
 
+GIT S
+}  
 footer {
   position: absolute;
   width: 100%;
