@@ -22,7 +22,7 @@ First, i read the instruction, create the file system and start to build the HTM
 Open Web page and navigate to the projcects section by scrolling, or by clicking projects in the navbar. Click the link to view the project that is of interest to have it open in a new tab. 
 
 
-![alt text](images/sample.jpg.jpg)
+![alt text](images/preview.jpg.jpg)
 
 <a href="https://fitzfinoo.github.io/Bootstrap-Portfolio/"> Live Link </a>
 
